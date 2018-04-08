@@ -23,3 +23,9 @@ Knack is a paid service, and while it aims to be an affordable platform not ever
 - Set up import from existing data?
 
 ## Screenshots
+
+[[https://i.imgur.com/88lnGtB.gif|alt=Setting up connections for export]]
+
+[[https://i.imgur.com/KVPDrFH.png|alt=Page builder]]
+
+[[https://i.imgur.com/1rF6vCh.png|alt=Resulting page]]
