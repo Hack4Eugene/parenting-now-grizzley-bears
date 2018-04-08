@@ -31,6 +31,10 @@ There isn't any! While my original project idea was going to use Knack just as a
 - Export of email list in Access-friendly format (csv with columns matching example xls)
 - Logo integration and custom colors to match existing web site
 
+## TODO
+
+- Import existing data using Knack import tools
+
 ## A Note on Knack
 
 Knack is a paid service, and while it aims to be an affordable platform (plans start at $39/mo with significant discounts for charitable organizations), not everyone has a technical budget. In the spirit of Hack for a Cause, Knack will provide a one-year non-profit starter plan subscription for this solution should it be selected.
