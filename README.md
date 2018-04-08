@@ -25,8 +25,14 @@ Knack is a paid service, and while it aims to be an affordable platform not ever
 
 ## Screenshots
 
+### Parenting Educator Dashboard
+
 ![Rendered page](https://i.imgur.com/5oUmRyy.png)
 
+### Connections for Formatted Export
+
 ![Setting up connections for export](https://i.imgur.com/88lnGtB.gif)
+
+### Page layout and hierarchy
 
 ![Page builder](https://i.imgur.com/KVPDrFH.png)
