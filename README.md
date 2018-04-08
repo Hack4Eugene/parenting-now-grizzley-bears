@@ -24,4 +24,4 @@ Knack is a paid service, and while it aims to be an affordable platform not ever
 
 ![Page builder](https://i.imgur.com/KVPDrFH.png)
 
-![Rendered page](https://i.imgur.com/RsMn1qn.png)
+![Rendered page](https://i.imgur.com/5oUmRyy.png)
