@@ -9,8 +9,8 @@ Hi! My name is Jeremy Sher and I'm a senior engineer at [Knack](https://www.knac
 ## Live Demo
 
 [Login](https://jeremydev.knack.com/parenting-now#groups2/)
-email: `test@test.com`
-password: `test`
+- email: `test@test.com`
+- password: `test`
 
 ## Where's the Code?
 
