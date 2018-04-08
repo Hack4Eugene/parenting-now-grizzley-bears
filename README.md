@@ -1,10 +1,8 @@
-# parenting-now-grizzley-bears
-
 ![Parenting Now](https://parentingnow.org/wp-content/uploads/2014/10/parentingnowlogo_header.png)
 
 ## Introduction
 
-Hi! My name is Jeremy Sher and I'm a senior engineer at [Knack](https://www.knack.com/), an online database and application building platform, where I mostly write JavaScript. I haven't really spent a lot of time using the system as an end user, though, so I decided to use Hack for a Cause as an opportunity to take a deep dive into building apps on the platform I spend my time working on. For my solution to Parenting Now's requirements, I used the Knack platform to create a secure online portal where Parenting Now's educators can manage attendance reports, snack assignments, summary reports, and other data that is currently being managed on paper using paper forms.
+Hi! My name is Jeremy Sher and I'm team Grizzley Bears! I'm a senior engineer at [Knack](https://www.knack.com/), an online database and application building platform, where I mostly write JavaScript. I haven't really spent a lot of time using the system as an end user, though, so I decided to use Hack for a Cause as an opportunity to take a deep dive into building apps on the platform I spend my time working on. For my solution to Parenting Now's requirements, I used the Knack platform to create a secure online portal where Parenting Now's educators can manage attendance reports, snack assignments, summary reports, and other data that is currently being managed on paper using paper forms.
 
 ## Live Demo
 
