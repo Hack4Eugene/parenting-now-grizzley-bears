@@ -4,7 +4,7 @@
 
 Hi! My name is Jeremy Sher and I'm a senior engineer at Knack, an online database and application building platform, where I mostly write JavaScript. I haven't really spent a lot of time using the system as an end user, though, so I decided to use Hack for a Cause as an opportunity to take a deep dive into building apps on the platform I spend my time working on. For my solution to Parenting Now's requirements, I used the Knack platform to create a secure online portal where Parenting Now's educators can manage attendance reports, snack assignments, summary reports, and other data that is currently being managed on paper using paper forms.
 
-## Hey! Where's the Code?
+## Where's the Code?
 
 There isn't any! While my original project idea was going to use Knack just as a data provider and talk to it over via API, I decided to challenge myself to only use the visual application builder tools to create this solution. This was both a personal challenge and a way of ensuring that the solution, if handed off, could be continued to be maintained by people of differing technical abilities.
 
