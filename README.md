@@ -1,8 +1,10 @@
 # parenting-now-grizzley-bears
 
+![Parenting Now](https://parentingnow.org/wp-content/uploads/2014/10/parentingnowlogo_header.png) 
+
 ## Introduction
 
-Hi! My name is Jeremy Sher and I'm a senior engineer at Knack, an online database and application building platform, where I mostly write JavaScript. I haven't really spent a lot of time using the system as an end user, though, so I decided to use Hack for a Cause as an opportunity to take a deep dive into building apps on the platform I spend my time working on. For my solution to Parenting Now's requirements, I used the Knack platform to create a secure online portal where Parenting Now's educators can manage attendance reports, snack assignments, summary reports, and other data that is currently being managed on paper using paper forms.
+Hi! My name is Jeremy Sher and I'm a senior engineer at [Knack](https://www.knack.com/), an online database and application building platform, where I mostly write JavaScript. I haven't really spent a lot of time using the system as an end user, though, so I decided to use Hack for a Cause as an opportunity to take a deep dive into building apps on the platform I spend my time working on. For my solution to Parenting Now's requirements, I used the Knack platform to create a secure online portal where Parenting Now's educators can manage attendance reports, snack assignments, summary reports, and other data that is currently being managed on paper using paper forms.
 
 ## Where's the Code?
 
@@ -24,6 +26,8 @@ There isn't any! While my original project idea was going to use Knack just as a
 - Logo integration and custom colors to match existing web site
 
 ## A Note on Knack
+
+![Knack Logo](https://d2z9u6n32o8z20.cloudfront.net/2015/images/knack-logo-2x.png)
 
 Knack is a paid service, and while it aims to be an affordable platform (plans start at $39/mo with significant discounts for charitable organizations), not everyone has a technical budget. In the spirit of Hack for a Cause, Knack will provide a one-year non-profit starter plan subscription for this solution should it be selected.
 
