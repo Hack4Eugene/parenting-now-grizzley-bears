@@ -27,8 +27,6 @@ There isn't any! While my original project idea was going to use Knack just as a
 
 ## A Note on Knack
 
-![Knack Logo](https://d2z9u6n32o8z20.cloudfront.net/2015/images/knack-logo-2x.png)
-
 Knack is a paid service, and while it aims to be an affordable platform (plans start at $39/mo with significant discounts for charitable organizations), not everyone has a technical budget. In the spirit of Hack for a Cause, Knack will provide a one-year non-profit starter plan subscription for this solution should it be selected.
 
 ## Screenshots
