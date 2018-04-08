@@ -13,9 +13,9 @@ Knack is a paid service, and while it aims to be an affordable platform not ever
 - Secure login with multiple user roles (educators, administrators)
 - Display session schedule in calendar format with more info per session
 - Migrate paper forms to online forms
--- Attendance reports by family and session
--- Summaries for sessions and groups
--- Snack assignments by session
+  - Attendance reports by family and session
+  - Summaries for sessions and groups
+  - Snack assignments by session
 - Export of email list in Access-friendly format (csv with columns matching example xls)
 
 ### TODO
